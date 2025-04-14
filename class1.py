@@ -80,8 +80,9 @@
 # b.append(7)
 # print (b)
 
-# b.insert(0,-1)
 # print ('old list',b)
+# b.insert(0,-1)
+# print ('new list',b)
 # aa=b.pop(0)
 #b=remove(-1)
 #print(b)
